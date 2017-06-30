@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\slage\Desktop\C# Bootcamp\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
